@@ -76,7 +76,7 @@ header {
 }
 
 .produto {
-    width: calc(33.33% - 20px); /* Define a largura de cada produto */
+    width: calc(33.33% - 20px); 
     margin-bottom: 20px; 
 }
 
